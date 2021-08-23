@@ -1,1 +1,1 @@
-# Softuni-Programming-Basic-with-C-
+# SoftUni-Programming-Basic-with-C#
